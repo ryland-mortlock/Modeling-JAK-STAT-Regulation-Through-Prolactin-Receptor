@@ -6,3 +6,4 @@ driver.m contains the code to simulate the predicted concentration of all molecu
 The R and Matlab directories contain subdirectories which contain all of the necessary code (.R or .m files) to reproduce any of the findings and figures from the paper. The basic organizational structure is
 - data: contains the data inputs to run a particular analysis
 - output: an example output of the analysis
+- cache: any intermediate files required for analysis
