@@ -188,3 +188,6 @@ transloc_predB = nucleus_cyto_ratioB;
 
 % Bcl-xL fold change
 Bcl = predConc(:,56)./predConc(1,56);
+
+
+function core_file

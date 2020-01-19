@@ -1,4 +1,4 @@
-function dydt = core_file(t,y,params )
+function dydt = core_file(t,y,params)
 
 %Specify variable names
 PRL = y(1);
